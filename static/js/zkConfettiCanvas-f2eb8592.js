@@ -1,0 +1,1 @@
+import{ao as t,v as e,F as o}from"./index-0da987e2.js";const n={id:"confetti",style:{position:"absolute",top:"0",left:"0","z-index":"-1",width:"100%",height:"100%"}};const s=t({},[["render",function(t,s){return e(),o("canvas",n)}]]);export{s as default};

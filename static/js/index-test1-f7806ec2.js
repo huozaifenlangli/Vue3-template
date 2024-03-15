@@ -1,0 +1,1 @@
+import{ao as t,v as e,F as s,G as a}from"./index-0da987e2.js";const o={name:"test1"},n={style:{height:"2000px","background-color":"pink"},class:"w100"},r=[a("h1",{class:"font32 cursor-pointer dialog-fade-enter-active"},"test1",-1)];const c=t(o,[["render",function(t,a,o,c,i,d){return e(),s("div",n,r)}]]);export{c as default};

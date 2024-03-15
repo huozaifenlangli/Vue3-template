@@ -1,0 +1,1 @@
+import{ao as n,v as s,F as t,G as a}from"./index-0da987e2.js";const e={},o=[a("h2",null,"test3",-1)];const r=n(e,[["render",function(n,a){return s(),t("div",null,o)}]]);export{r as default};
